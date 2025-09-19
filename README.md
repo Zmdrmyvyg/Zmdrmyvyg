@@ -2,7 +2,7 @@
 📍 Robo @ Penn GRASP (Class of 2027)<br/>
 🎓 AI @ Tongji (Class of 2025)<br/>
 🌱 Software Engineer Intern @ SAIC Volkswagen + TJAC Lab<br/>
-🤖 Machine Learnign Engineer Intern @ SRIAS <br/>
+🤖 Machine Learning Engineer Intern @ SRIAS <br/>
 🤓 Specialize in AI development and deployment<br/>
 
 ### Leadership and Achievements
