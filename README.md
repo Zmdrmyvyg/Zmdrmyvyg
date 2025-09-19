@@ -40,4 +40,4 @@
   <img src="https://img.shields.io/badge/-Shell_Scripting-4EAA25?style=flat&logo=gnu-bash&logoColor=white"/>
   <img src="https://img.shields.io/badge/-REST_API-02569B?style=flat&logo=fastapi&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Testing-6DB33F?style=flat&logo=jest&logoColor=white"/>
-<\span>
+</span>
