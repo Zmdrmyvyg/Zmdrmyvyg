@@ -6,10 +6,10 @@
 🤓 Specialize in AI development and deployment<br/>
 
 ### Leadership and Achievements
-⛰️ Lead Voluntary Mentor @ Ninglang Primary School <br/>
-🤩 Teaching Fellow @ HSYLC 2022 <br/>
 🎤 Best Presentation @ APIT 2025 <br/>
+⛰️ Lead Voluntary Mentor @ Daerdi Primary School, Ninglang 2023 <br/>
 🧠 Winner @ AI for Brain Science 2023 <br/>
+🤩 Teaching Fellow @ HSYLC 2022 <br/>
 
 ### Languages & Tools
 <span>
